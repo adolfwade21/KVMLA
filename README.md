@@ -4,7 +4,8 @@
 
 KVMLA, established in 2011, is currently offering promotional sales across their range of VPS and dedicated servers. These servers are located in high-demand areas like Hong Kong, Japan, and Singapore, equipped with premium CN2, Softbank, and BGP connections respectively. They are designed to cater to high bandwidth needs, ideal for both website hosting and remote office setups.
 
-![Uploading image.png…]()
+![image](https://github.com/adolfwade21/KVMLA/assets/167674171/7425b3c7-8acf-4be9-92b1-21c65e072709)
+
 
 ## KVMLA Official Website Address
 
